@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 To clean and preprocess a raw dataset (with missing values, duplicates, and inconsistent formats) using Python (Pandas).
-
+**Please find the Task1.pdf for more clarity**
 Dataset Used: **Netflix Movies and TV Shows (Kaggle)**
 
 ---
@@ -42,4 +42,5 @@ Final dataset contains **8,807 records**.
 - `QnA.md` → Interview questions & answers.
 
 ---
+
 
